@@ -1,0 +1,51 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+#start, #status
+{
+    font-size: 22px;
+}
+
+canvas
+{
+    border-radius: 35px;
+    float: center;
+}
+
+#restart
+{
+    font-size: 25px;
+    top: 0%;
+}
+
+footer
+{
+   bottom: 0px;
+   position: fixed;
+   background-color: white;
+   text-align: center;
+   font-size: 22px;
+   width: 100%;
+}
+
+video
+{
+    
+    background-size: cover;
+    background-position: center;
+    padding: 25px ;
+}
